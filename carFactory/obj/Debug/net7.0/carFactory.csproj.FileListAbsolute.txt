@@ -1,0 +1,15 @@
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.csproj.AssemblyReference.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.AssemblyInfoInputs.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.AssemblyInfo.cs
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.csproj.CoreCompileInputs.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\bin\Debug\net7.0\carFactory.exe
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\bin\Debug\net7.0\carFactory.deps.json
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\bin\Debug\net7.0\carFactory.runtimeconfig.json
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\bin\Debug\net7.0\carFactory.dll
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\bin\Debug\net7.0\carFactory.pdb
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.dll
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\refint\carFactory.dll
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.pdb
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\carFactory.genruntimeconfig.cache
+C:\Users\ROCKY4732\OneDrive - Willis Towers Watson\Desktop\Trainocate\back-end-Projects\carFactory\obj\Debug\net7.0\ref\carFactory.dll
